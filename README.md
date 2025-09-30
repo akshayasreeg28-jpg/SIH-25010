@@ -106,10 +106,11 @@ Cloud deployment (AWS/GCP/Azure)
 AI models upgradable over time
 
 10. Future Integration Readiness
-The solution is designed to integrate with: ✔ IoT sensors (soil moisture, weather, irrigation) ✔ Drones for crop health imaging ✔ Satellite-based prediction systems ✔ Blockchain for supply chain and subsidy tracking
+The solution is designed to integrate with: IoT sensors (soil moisture, weather, irrigation) ,Drones for crop health imaging , Satellite-based prediction systems , Blockchain for supply chain and subsidy tracking
 
  Summary 
 “An AI-driven, multilingual, multi-channel advisory system that delivers personalized crop, pest, weather, and market guidance to small and marginal farmers, with offline access, image-based diagnosis, and data-driven insights
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/00e3378c-f1a9-4cb4-94a4-b1866986225d" />
 
 # Technical Approach
 1. System Architecture Overview
@@ -200,11 +201,11 @@ Quantity and timing alerts
  Data Sources & Integration
 Weather APIs:
 OpenWeatherMap / AccuWeather / IMD
-🔹 Soil Data APIs & Offline Input:
+Soil Data APIs & Offline Input:
 ICAR / Soil Health Card / user entry
-🔹 Market Price Feeds:
+Market Price Feeds:
 Government mandi databases (Agmarknet API)
-🔹 Pest Advisory APIs:
+Pest Advisory APIs:
 FAO PlantVillage, local agri databases
 
  Deployment & Scalability
